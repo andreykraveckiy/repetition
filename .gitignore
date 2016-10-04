@@ -14,3 +14,15 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Other files
+database.yml
+doc/
+*.swp
+*
+.project
+.DS_Store
+.idea
+.secret
+secret_token.rb
+.gitignore

@@ -9,4 +9,19 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-RepetitionApp::Application.config.secret_key_base = '9bd7c200eb02422cc46c141632e63f569df3550329fe10b7a9a78037780eb7e05066a10e238653c1d6eef5410500fb2336b1c293e25fb054acba95cd0ad73097'
+require 'securerandom'
+
+def secure_token
+  token_file = Rails.root.join('.secret')
+  if File.exist?(token_file)
+    # Use the existing token.
+    File.read(token_file).chomp
+  else
+    # Generate a new token and store it in token_file.
+    token = SecureRandom.hex(64)
+    File.write(token_file, token)
+    token
+  end
+end
+
+RepetitionApp::Application.config.secret_key_base = secure_token

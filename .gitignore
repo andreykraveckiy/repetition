@@ -26,3 +26,4 @@ doc/
 .secret
 secret_token.rb
 .gitignore
+/config/database.yml

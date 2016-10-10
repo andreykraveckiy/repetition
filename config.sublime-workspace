@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"fo",
+				"followed_user"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"Follow",
+				"Follow"
+			],
+			[
+				"have",
+				"have_title"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"un",
+				"unfollowed_post"
+			],
+			[
+				"password",
+				"password_field"
+			],
+			[
+				"edit",
+				"edit_user_path"
+			],
+			[
+				"signin",
+				"signin_path"
+			],
+			[
+				"pas",
+				"password_field"
+			],
+			[
+				"remem",
+				"remember_token"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"inva",
+				"invalid_address"
+			],
+			[
+				"ha",
+				"have_title"
+			],
+			[
+				"he",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/red/rails_projects/blog/db/migrate/20160929161804_create_comments.rb",
+		"/home/red/rails_projects/blog/config/routes.rb",
+		"/home/red/rails_projects/blog/app/views/welcome/index.html.erb",
+		"/home/red/rails_projects/blog/app/controllers/articles_controller.rb",
+		"/home/red/rails_projects/blog/app/views/articles/index.html.erb",
+		"/home/red/rails_projects/blog/app/views/articles/show.html.erb",
+		"/home/red/rails_projects/blog/app/views/articles/_form.html.erb",
+		"/home/red/rails_projects/blog/app/models/article.rb",
+		"/home/red/rails_projects/blog/app/views/articles/new.html.erb",
+		"/home/red/rails_projects/blog/app/views/articles/edit.html.erb",
+		"/home/red/rails_projects/blog/README.rdoc",
+		"/home/red/rails_projects/blog/Gemfile",
+		"/home/red/rails_projects/blog/.gitignore",
+		"/home/red/rails_projects/sample_app/db/migrate/20160902122406_create_relationships.rb",
+		"/home/red/rails_projects/sample_app/spec/requests/micropost_pages_spec.rb",
+		"/home/red/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/home/red/rails_projects/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/home/red/rails_projects/sample_app/app/views/shared/_delete_item.html.erb",
+		"/home/red/rails_projects/sample_app/app/views/static_pages/_user_home.html.erb",
+		"/home/red/rails_projects/sample_app/app/views/static_pages/_welcome.html.erb",
+		"/home/red/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/home/red/rails_projects/sample_app/app/helpers/microposts_helper.rb",
+		"/home/red/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/home/red/rails_projects/sample_app/app/views/microposts/_micropost.html.erb",
+		"/home/red/rails_projects/sample_app/app/controllers/microposts_controller.rb",
+		"/home/red/rails_projects/sample_app/app/views/shared/_feed_item.html.erb",
+		"/home/red/rails_projects/sample_app/db/migrate/20160822203143_create_microposts.rb",
+		"/home/red/rails_projects/sample_app/app/models/micropost.rb",
+		"/home/red/rails_projects/sample_app/app/models/user.rb",
+		"/home/red/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/red/rails_projects/sample_app/spec/models/micropost_spec.rb",
+		"/home/red/rails_projects/sample_app/spec/factories.rb",
+		"/home/red/rails_projects/sample_app/app/views/users/show.html.erb",
+		"/home/red/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/home/red/rails_projects/sample_app/app/views/shared/_user_info.html.erb",
+		"/home/red/rails_projects/sample_app/app/views/shared/_micropost_form.html.erb",
+		"/home/red/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/red/rails_projects/sample_app/app/views/shared/_feed.html.erb",
+		"/home/red/rails_projects/sample_app/app/views/shared/_error_messages.html.erb",
+		"/home/red/rails_projects/sample_app/app/views/users/_fields.html.erb",
+		"/home/red/rails_projects/sample_app/lib/tasks/sample_data.rake",
+		"/home/red/rails_projects/sample_app/config/routes.rb",
+		"/home/red/rails_projects/sample_app/app/helpers/sessions_helper.rb",
+		"/home/red/rails_projects/sample_app/spec/models/user_spec.rb",
+		"/home/red/rails_projects/sample_app/app/controllers/sessions_controller.rb",
+		"/home/red/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/home/red/rails_projects/sample_app/app/views/users/edit.html.erb",
+		"/home/red/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/home/red/rails_projects/sample_app/app/views/users/_user.html.erb",
+		"/home/red/rails_projects/sample_app/Gemfile",
+		"/home/red/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/home/red/rails_projects/sample_app/app/views/users/index.html.erb",
+		"/home/red/rails_projects/sample_app/db/migrate/20160818204035_add_admin_to_users.rb",
+		"/home/red/rails_projects/sample_app/spec/support/utilities.rb",
+		"/home/red/rails_projects/sample_app/app/views/sessions/new.html.erb",
+		"/home/red/rails_projects/sample_app/app/assets/javascripts/application.js",
+		"/home/red/rails_projects/sample_app/app/controllers/application_controller.rb",
+		"/home/red/rails_projects/sample_app/db/migrate/20160814103948_add_remember_token_to_users.rb",
+		"/home/red/rails_projects/sample_app/config/environments/production.rb",
+		"/home/red/rails_projects/sample_app/app/helpers/users_helper.rb",
+		"/home/red/rails_projects/sample_app/config/environments/test.rb",
+		"/home/red/rails_projects/sample_app/db/migrate/20160804143954_add_index_to_users_email.rb",
+		"/home/red/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/home/red/rails_projects/sample_app/spec/helpers/application_helper_spec.rb",
+		"/home/red/rails_projects/sample_app/spec/spec_helper.rb",
+		"/home/red/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+		"/home/red/rails_projects/sample_app/.bundle/config",
+		"/home/red/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
+		"/home/red/rails_projects/sample_app/config/application.rb",
+		"/home/red/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/home/red/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/home/red/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/home/red/rails_projects/sample_app/README.rdoc",
+		"/home/red/rails_projects/demo_app/app/models/user.rb",
+		"/home/red/rails_projects/demo_app/app/models/micropost.rb",
+		"/home/red/rails_projects/demo_app/app/views/users/index.html.erb",
+		"/home/red/rails_projects/demo_app/Gemfile",
+		"/home/red/rails_projects/demo_app/app/controllers/users_controller.rb",
+		"/home/red/rails_projects/demo_app/app/controllers/user_controller.rb",
+		"/home/red/rails_projects/first_app/README.md",
+		"/home/red/rails_projects/first_app/.gitignore",
+		"/home/red/rails_projects/first_app/Gemfile",
+		"/home/red/rails_projects/first_app/.git/COMMIT_EDITMSG",
+		"/etc/rc.local",
+		"/home/red/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/red/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/red/rails_projects/sample_app/app",
+			"/home/red/rails_projects/sample_app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"following",
+			"microposts",
+			"gravatar_for",
+			"form_tag",
+			"form_for",
+			"form_tag",
+			"lable",
+			"#eaeaea",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "config.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"app/views/users/_fields.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 416.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

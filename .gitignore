@@ -19,11 +19,10 @@
 database.yml
 doc/
 *.swp
-*
+
 .project
 .DS_Store
 .idea
 .secret
-secret_token.rb
 .gitignore
 /config/database.yml
